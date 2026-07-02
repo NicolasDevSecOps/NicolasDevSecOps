@@ -1,16 +1,19 @@
-## Hi there 👋
+ Olá, eu sou o Nicolas! 
 
-<!--
-**NicolasDevSecOps/NicolasDevSecOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação focado no ecossistema **Full Stack** com especial interesse em **Cyber Security** e cultura **DevSecOps**. Atualmente cursando Análise e Desenvolvimento de Sistemas e construindo uma rotina sólida de código e segurança.
 
-Here are some ideas to get you started:
+Meu Foco Atual
+- Desenvolvimento de APIs seguras (Node.js / Python)
+- Mitigação de vulnerabilidades (OWASP Top 10) e Redes de Computadores
+-  Automação de infraestrutura e conteinerização (Docker / Linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias e Ferramentas (Em constante evolução)
+- **Linguagens:** Python, JavaScript
+- **Back-End & Bancos:** Node.js, SQL (PostgreSQL/MySQL)
+- **Infra & Sec:** Linux, Git/GitHub, Docker
+
+---
+
+## 📁 Projetos em Destaque
+*(Conforme você for criando os projetos até o fim do ano, linke-os aqui)*
+- **[Nome do Projeto]**: Breve descrição de 1 linha destacando a tecnologia e a segurança usada (Ex: API Full Stack com criptografia Bcrypt e Docker).
