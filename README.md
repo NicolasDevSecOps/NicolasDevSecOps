@@ -14,6 +14,4 @@ Tecnologias e Ferramentas (Em constante evolução)
 
 ---
 
-## 📁 Projetos em Destaque
-*(Conforme você for criando os projetos até o fim do ano, linke-os aqui)*
-- **[Nome do Projeto]**: Breve descrição de 1 linha destacando a tecnologia e a segurança usada (Ex: API Full Stack com criptografia Bcrypt e Docker).
+📁 Projetos em Destaque
